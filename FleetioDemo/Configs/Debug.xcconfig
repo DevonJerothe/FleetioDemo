@@ -1,0 +1,10 @@
+//
+//  Debug.xcconfig
+//  FleetioDemo
+//
+//  Created by devon jerothe on 8/18/25.
+//
+
+// API Key
+API_KEY = d5f2847e876d290b9dd222c9a9dc89243749250d
+API_TOKEN = 2ac22cf493

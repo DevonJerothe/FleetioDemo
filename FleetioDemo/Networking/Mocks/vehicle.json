@@ -1,0 +1,267 @@
+{
+  "id": 4268646,
+  "account_id": 528207,
+  "archived_at": null,
+  "fuel_type_id": null,
+  "fuel_type_name": null,
+  "fuel_volume_units": "us_gallons",
+  "group_id": null,
+  "group_name": null,
+  "name": "1100 [2018 Toyota Prius]",
+  "ownership": "owned",
+  "current_location_entry_id": 1240662365,
+  "system_of_measurement": "imperial",
+  "vehicle_type_id": 1970714,
+  "vehicle_type_name": "Car",
+  "is_sample": true,
+  "vehicle_status_id": 722063,
+  "vehicle_status_name": "Active",
+  "vehicle_status_color": "green",
+  "primary_meter_unit": "mi",
+  "primary_meter_value": "20811.0",
+  "primary_meter_date": "2025-08-18",
+  "primary_meter_usage_per_day": "103.6",
+  "secondary_meter_unit": null,
+  "secondary_meter_value": "0.0",
+  "secondary_meter_date": null,
+  "secondary_meter_usage_per_day": "0.0",
+  "in_service_meter_value": "0.0",
+  "in_service_date": "2025-02-06",
+  "out_of_service_meter_value": null,
+  "out_of_service_date": null,
+  "estimated_service_months": 60,
+  "estimated_replacement_mileage": "150000.0",
+  "estimated_resale_price_cents": null,
+  "fuel_entries_count": 6,
+  "service_entries_count": 1,
+  "service_reminders_count": 2,
+  "vehicle_renewal_reminders_count": 3,
+  "comments_count": 2,
+  "documents_count": 0,
+  "images_count": 1,
+  "issues_count": 2,
+  "work_orders_count": 0,
+  "created_at": "2025-08-18T13:43:42.884969-04:00",
+  "updated_at": "2025-08-19T13:47:02.117501-04:00",
+  "labels": [
+    
+  ],
+  "group_ancestry": null,
+  "color": "silver",
+  "license_plate": "6TRJ244",
+  "make": "Toyota",
+  "model": "Prius",
+  "registration_expiration_month": 0,
+  "registration_state": null,
+  "trim": "Two",
+  "vin": "JTDKBRFU9J30593O7",
+  "year": 2018,
+  "default_image_url_small": "https://d8g9nhlfs6lwh.cloudfront.net/security=policy:eyJoYW5kbGUiOiIyTjJIZ1plMVJUT0EzMUdjM2tKbyIsImV4cGlyeSI6NDUzNDk0OTM0MywiY2FsbCI6WyJyZWFkIiwiY29udmVydCJdfQ==,signature:eb35bb1f6dfa70c07444053c74c812e933e8c9e9b4b30cac19f28e1b7df68348/resize=w:45,h:45,fit:crop/cache=expiry:max/rotate=exif:true/2N2HgZe1RTOA31Gc3kJo",
+  "ai_enabled": false,
+  "assetable_type": "Vehicle",
+  "custom_fields": {
+    
+  },
+  "axle_config_id": null,
+  "driver": {
+    "id": 2586602,
+    "first_name": "Jacob",
+    "last_name": "Silva",
+    "full_name": "Jacob Silva",
+    "employee": true,
+    "employee_number": "#D108",
+    "default_image_url": "https://d8g9nhlfs6lwh.cloudfront.net/rn1hvxVfRFuRpY1bUqky?signature=e7bea74f4955dc7c156ba9638e60236436f16bf5e12823f7f86a1f1e92c71de6&policy=eyJoYW5kbGUiOiJybjFodnhWZlJGdVJwWTFiVXFreSIsImV4cGlyeSI6NDUzNDk0OTM0MywiY2FsbCI6WyJyZWFkIl19"
+  },
+  "loan_account_number": null,
+  "loan_ended_at": null,
+  "loan_interest_rate": null,
+  "loan_notes": null,
+  "loan_started_at": null,
+  "loan_vendor_id": null,
+  "loan_vendor_name": null,
+  "inspection_schedules_count": 1,
+  "warranties_count": 0,
+  "warranties_active_count": 0,
+  "default_image_url": "https://d8g9nhlfs6lwh.cloudfront.net/2N2HgZe1RTOA31Gc3kJo?signature=582a780f7312e404a8b769ac5f794e8acfc07059a72effe4ac0c1a9b070c789e&policy=eyJoYW5kbGUiOiIyTjJIZ1plMVJUT0EzMUdjM2tKbyIsImV4cGlyeSI6NDUzNDk0OTM0MywiY2FsbCI6WyJyZWFkIl19",
+  "default_image_url_medium": "https://d8g9nhlfs6lwh.cloudfront.net/security=policy:eyJoYW5kbGUiOiIyTjJIZ1plMVJUT0EzMUdjM2tKbyIsImV4cGlyeSI6NDUzNDk0OTM0MywiY2FsbCI6WyJyZWFkIiwiY29udmVydCJdfQ==,signature:eb35bb1f6dfa70c07444053c74c812e933e8c9e9b4b30cac19f28e1b7df68348/resize=w:100,h:100,fit:crop/cache=expiry:max/rotate=exif:true/2N2HgZe1RTOA31Gc3kJo",
+  "default_image_url_large": "https://d8g9nhlfs6lwh.cloudfront.net/security=policy:eyJoYW5kbGUiOiIyTjJIZ1plMVJUT0EzMUdjM2tKbyIsImV4cGlyeSI6NDUzNDk0OTM0MywiY2FsbCI6WyJyZWFkIiwiY29udmVydCJdfQ==,signature:eb35bb1f6dfa70c07444053c74c812e933e8c9e9b4b30cac19f28e1b7df68348/resize=w:450,fit:scale/cache=expiry:max/rotate=exif:true/2N2HgZe1RTOA31Gc3kJo",
+  "specs": {
+    "id": 5821752,
+    "vehicle_id": 4268646,
+    "account_id": 528207,
+    "body_type": "Hatchback",
+    "body_subtype": null,
+    "drive_type": "FWD",
+    "brake_system": "Hydraulic",
+    "msrp_cents": 2495000,
+    "fuel_tank_capacity": 11.3,
+    "fuel_tank_2_capacity": null,
+    "front_track_width": 60.2,
+    "ground_clearance": 5.1,
+    "height": 58.1,
+    "length": 178.7,
+    "rear_track_width": 60.6,
+    "width": 69.3,
+    "wheelbase": 106.3,
+    "front_tire_psi": null,
+    "rear_tire_psi": null,
+    "base_towing_capacity": null,
+    "curb_weight": 3075,
+    "gross_vehicle_weight_rating": null,
+    "bed_length": null,
+    "max_payload": 825,
+    "rear_axle_type": null,
+    "front_tire_type": "P195/65R15 89S",
+    "front_wheel_diameter": "15.0 x 6.5",
+    "rear_tire_type": "P195/65R15 89S",
+    "rear_wheel_diameter": "15.0 x 6.5",
+    "epa_city": 54,
+    "epa_highway": 50,
+    "epa_combined": 52,
+    "engine_description": "1.8L Hybrid I4 121hp",
+    "engine_brand": null,
+    "engine_aspiration": "Naturally Aspirated",
+    "engine_block_type": "I",
+    "engine_bore": 3.17,
+    "engine_cam_type": "DOHC",
+    "engine_compression": 13,
+    "engine_cylinders": 4,
+    "engine_displacement": 1.8,
+    "fuel_induction": "Sequential Multiport Fuel Injection",
+    "fuel_quality": "87",
+    "max_hp": 121,
+    "max_torque": 0,
+    "oil_capacity": 4.2,
+    "redline_rpm": "0",
+    "engine_stroke": 3.48,
+    "engine_valves": 16,
+    "transmission_description": "CVT",
+    "transmission_brand": null,
+    "transmission_type": "Continuously Variable",
+    "transmission_gears": 0,
+    "cargo_volume": 24.6,
+    "interior_volume": 117.7,
+    "passenger_volume": "93.1",
+    "created_at": "2025-08-18T13:43:46.022-04:00",
+    "updated_at": "2025-08-18T13:43:46.022-04:00",
+    "duty_type": null,
+    "weight_class": null,
+    "engine_bore_with_units": "3.2 in",
+    "wheelbase_with_units": "106.3 in",
+    "msrp": 24950
+  },
+  "comments": [
+    {
+      "id": 44361267,
+      "title": "",
+      "comment": "Test",
+      "commentable_type": "Vehicle",
+      "commentable_id": 4268646,
+      "user_id": 2294576,
+      "html_content": "<p>Test</p>",
+      "user_full_name": "Devon Jerothe",
+      "user_image_url": null,
+      "rich_content": {
+        "state": [
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "Test"
+              }
+            ]
+          }
+        ]
+      },
+      "with_mentions": false,
+      "created_at": "2025-08-19T13:41:22.086-04:00",
+      "updated_at": "2025-08-19T13:41:22.086-04:00"
+    },
+    {
+      "id": 44361498,
+      "title": "",
+      "comment": "Test\nTest\nTest\n\n",
+      "commentable_type": "Vehicle",
+      "commentable_id": 4268646,
+      "user_id": 2294576,
+      "html_content": "<ul><li>Test<br/></li><li>Test<br/></li><li>Test<br/></li></ul><br/>",
+      "user_full_name": "Devon Jerothe",
+      "user_image_url": null,
+      "rich_content": {
+        "state": [
+          {
+            "type": "bulleted-list",
+            "children": [
+              {
+                "type": "list-item",
+                "children": [
+                  {
+                    "text": "Test"
+                  }
+                ]
+              },
+              {
+                "type": "list-item",
+                "children": [
+                  {
+                    "text": "Test"
+                  }
+                ]
+              },
+              {
+                "type": "list-item",
+                "children": [
+                  {
+                    "text": "Test"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": ""
+              }
+            ]
+          }
+        ]
+      },
+      "with_mentions": false,
+      "created_at": "2025-08-19T13:47:02.114-04:00",
+      "updated_at": "2025-08-19T13:47:02.114-04:00"
+    }
+  ],
+  "current_location_entry": {
+    "id": 1240662365,
+    "locatable_type": "SubmittedInspectionForm",
+    "locatable_id": 86330166,
+    "date": "2025-08-17T11:36:29.000-04:00",
+    "created_at": "2025-08-18T13:46:32.393-04:00",
+    "updated_at": "2025-08-18T13:46:33.897-04:00",
+    "contact_id": null,
+    "address": "1848 W Madison St, Chicago, IL 60612, USA",
+    "is_current": true,
+    "item_type": "Vehicle",
+    "item_id": 4268646,
+    "vehicle_id": 4268646,
+    "location": "POINT (-87.673798 41.88178)",
+    "address_components": {
+      "street_number": "1848",
+      "street": "West Madison Street",
+      "city": "Chicago",
+      "region": "Illinois",
+      "region_short": "IL",
+      "country": "United States",
+      "country_short": "US",
+      "postal_code": "60612"
+    },
+    "geolocation": {
+      "latitude": 41.88178,
+      "longitude": -87.673798
+    }
+  },
+  "job_assignment": null,
+  "documents_including_nested_resources_count": 0
+}
