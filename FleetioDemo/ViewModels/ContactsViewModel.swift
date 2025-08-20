@@ -13,7 +13,7 @@ class ContactsViewModel: PaginatedViewModel<ContactModel> {
     
     private let contactsRepository: ContactRespositoryProtocol
     
-    var contacts: [ContactModel] = []
+    var contacts: [ContactModel] { items }
     
     init(
         repository: ContactRespositoryProtocol = ContactRepository()
