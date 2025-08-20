@@ -1,0 +1,32 @@
+name: "Run Unit Tests - FleetioDemo"
+
+on:
+  pull_request:
+  workflow_dispatch:
+
+jobs:
+  # setup and run unit tests
+  run_tests:
+    name: Run unit tests
+    runs-on: macos-15
+
+    steps:
+      - uses: actions/checkout@v3
+
+      - name: setup runner
+        uses: ./.github/actions/setup-runner
+        id: setup-runner
+
+      - name: Debug available devices
+        run: |
+          echo "Available devices:"
+          xcrun simctl list devices available | grep iPhone
+          echo "Xcode version:"
+          xcode-select -p
+          xcodebuild -version
+
+      # run fastlane unit test script
+      - name: run unit tests
+        run: |
+          mkdir -p fastlane/test_output/xctest
+          bundle exec fastlane ios run_unit_tests
