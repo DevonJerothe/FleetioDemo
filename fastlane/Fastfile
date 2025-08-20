@@ -20,7 +20,7 @@ platform :ios do
   desc "Run Unit Tests" 
   lane :run_unit_tests do |options|
     scan(
-      scheme: "FleetioDemoTests",
+      scheme: "FleetioDemo",
       clean: true
     )
   end 
