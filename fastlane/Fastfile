@@ -22,7 +22,8 @@ platform :ios do
     scan(
       scheme: "FleetioDemoTests",
       clean: true,
-      device: "iPhone 16"
+      device: "iPhone 16",
+      destination: "platform=iOS Simulator,name=iPhone 16"
     )
   end 
 

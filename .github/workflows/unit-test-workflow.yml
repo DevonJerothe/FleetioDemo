@@ -8,7 +8,7 @@ jobs:
   # setup and run unit tests
   run_tests:
     name: Run unit tests
-    runs-on: macos-latest
+    runs-on: macos-15
 
     steps:
       - uses: actions/checkout@v3
