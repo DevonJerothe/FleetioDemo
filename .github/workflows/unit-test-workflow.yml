@@ -17,6 +17,14 @@ jobs:
         uses: ./.github/actions/setup-runner
         id: setup-runner
 
+      - name: Debug available devices
+        run: |
+          echo "Available devices:"
+          xcrun simctl list devices available | grep iPhone
+          echo "Xcode version:"
+          xcode-select -p
+          xcodebuild -version
+
       # run fastlane unit test script
       - name: run unit tests
         run: |
