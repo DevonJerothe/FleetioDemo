@@ -21,7 +21,8 @@ platform :ios do
   lane :run_unit_tests do |options|
     scan(
       scheme: "FleetioDemoTests",
-      clean: true
+      clean: true,
+      device: "iPhone 16"
     )
   end 
 
